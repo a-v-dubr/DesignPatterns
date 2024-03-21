@@ -1,0 +1,7 @@
+# VS files
+.vs/
+obj/
+bin/
+
+# DB files
+*.db
